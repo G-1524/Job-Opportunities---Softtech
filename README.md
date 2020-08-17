@@ -22,5 +22,5 @@ If you are passionate about working flexibly, this position allows you to work b
 
 6- DevOps Engineer (Remote) - https://www.linkedin.com/jobs/search/?currentJobId=1967537037&keywords=softtech
 
-This is our career page.  If you like to apply from there, leaving the link as well. You can directly begin your application process via this link:
+This is our career page.  If you like to apply from there, leaving the link. You can directly begin your application process via this link:
 https://career2.successfactors.eu/career?company=softtechya 
